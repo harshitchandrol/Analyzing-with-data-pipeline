@@ -1,7 +1,7 @@
 # Analyzing-with-data-pipeline
 
 ## Goals for this Project:
-### Build an optimal model on Boston Housing Dataset [from skelarn dataset library], so it can be used in deployement to score on new labelled data
+### Build an optimal model both ##Classification## and ##Regression## on Boston Housing Dataset [from skelarn dataset library], so it can be used in deployement to score on new labelled data
 
 ### Plan and the learning goal
 - Data Preprocessing
